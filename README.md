@@ -108,7 +108,7 @@ at the start, some temporary variables are made because pygame isn't suited to b
 
 
 Clone the project repository from GitHub:
-https://github.com/saiusesgithub/dinosaur-game-clone
+https://github.com/saiusesgithub/Chrome-Dinosaur-Game-Clone/
 
 then run the project.py file
 
